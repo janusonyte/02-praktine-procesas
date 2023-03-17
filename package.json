@@ -1,0 +1,16 @@
+{
+  "name": "02-praktine-procesas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4304",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["html5", "css3"],
+  "author": "Gabriele <janusonytegabriele@gmail.com> (https://github.com/janusonyte)",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
